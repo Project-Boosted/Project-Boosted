@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Project Boosted
 - 👀 We Are Working To Build A Great RP Server
-- 👀 We Want To Help Others Olong The Way
+- 👀 We Want To Help Others Along The Way
 - 👀 We Are interested in ... .Lua - QBCore
 - 🌱 We Are currently learning ... .Lua
 
