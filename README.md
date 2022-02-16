@@ -4,7 +4,7 @@
 - 👀 We Are interested in ... .Lua - QBCore
 - 🌱 We Are currently learning ... .Lua
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Project-Boosted)](https://git.io/streak-stats)tokyonight
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Project-Boosted)](https://git.io/streak-stats)&theme=tokyonight_duo
 
 <!---
 Project-Boosted/Project-Boosted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
