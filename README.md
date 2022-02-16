@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Project Boosted
-- 👀 I’m interested in ... .Lua - QBCore
-- 🌱 I’m currently learning ... .Lua
+- 👀 We interested in ... .Lua - QBCore
+- 🌱 We currently learning ... .Lua
 
 <!---
 Project-Boosted/Project-Boosted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
