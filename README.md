@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Project Boosted
+- 👋 Hi, We Are @Project Boosted
 - 👀 We Are Working To Build A Great RP Server
 - 👀 We Want To Help Others Along The Way
 - 👀 We Are interested in ... .Lua - QBCore
