@@ -3,7 +3,8 @@
 - 👀 We Want To Help Others Along The Way
 - 👀 We Are interested in ... .Lua - QBCore
 - 🌱 We Are currently learning ... .Lua
-
+- 👀 Discord Link : https://discord.gg/kJbpmX2mDQ
+- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Project-Boosted&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
